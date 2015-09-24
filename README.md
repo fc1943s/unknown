@@ -1,4 +1,4 @@
-# UnknowN Suite
+# UnknowN WoW Suite
 QOL Addons for WoW
 
 List of WoW addons that helped me in my raiding performance (Top 11 US raiding guild at the time and top 1 World Disc Priest - Proraiders).
