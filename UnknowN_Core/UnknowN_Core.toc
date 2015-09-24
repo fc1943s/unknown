@@ -1,0 +1,36 @@
+## Title: |cff00ff96UnknowN Core|r
+## Notes: Common resources for some helper addons.
+##
+## Interface: 60200
+##
+## Version: 1.0
+## Author: Stew UnknowN
+##
+## SavedVariables: UnknowNCoreDB
+##
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\LibSharedMedia-3.0\lib.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml 
+######### AceGUI-3.0
+Libs\AceGUI-3.0-SharedMediaWidgets\widget.xml
+Libs\AceHook-3.0\AceHook-3.0.xml
+Libs\AceTimer-3.0\AceTimer-3.0.xml
+######### CallbackHandler-1.0
+Libs\LibCandyBar-3.0\bars.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+Libs\LibResInfo-1.0\LibResInfo-1.0.lua
+######### LibSharedMedia-3.0
+Libs\LibSmoothStatusBar-1.0\LibSmoothStatusBar-1.0.lua
+######### LibStub
+
+UnknowN_Core.lua

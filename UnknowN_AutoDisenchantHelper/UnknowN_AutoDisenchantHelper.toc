@@ -1,0 +1,11 @@
+## Title: |cff00ff96AutoDisenchant Helper|r
+## Notes: AutoDisenchant Helper
+##
+## Interface: 60200
+## Dependencies: UnknowN_Core, BeanCounter
+##
+## Version: 1.0
+## Author: Stew UnknowN
+##
+
+UnknowN_AutoDisenchantHelper.lua

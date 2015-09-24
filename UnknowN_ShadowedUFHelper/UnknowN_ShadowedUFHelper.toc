@@ -1,0 +1,11 @@
+## Title: |cff00ff96ShadowedUnitFrames Helper|r
+## Notes: ShadowedUnitFrames Helper
+##
+## Interface: 60200
+## Dependencies: UnknowN_Core, ShadowedUnitFrames
+##
+## Version: 1.0
+## Author: Stew UnknowN
+##
+
+UnknowN_ShadowedUFHelper.lua

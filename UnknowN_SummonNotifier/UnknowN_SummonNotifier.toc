@@ -1,0 +1,11 @@
+## Title: |cff00ff96Summon Notifier|r
+## Notes: Summon Notifier
+##
+## Interface: 60200
+## Dependencies: UnknowN_Core
+##
+## Version: 1.0
+## Author: Stew UnknowN
+##
+
+UnknowN_SummonNotifier.lua

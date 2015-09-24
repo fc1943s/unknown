@@ -1,0 +1,33 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Stew\\Games\\Folders\\World of Warcraft\\Interface\\AddOns\\UnknowN_UI"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Stew\\Games\\Folders\\World of Warcraft\\Interface\\AddOns\\UnknowN_SummonNotifier"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Stew\\Games\\Folders\\World of Warcraft\\Interface\\AddOns\\UnknowN_ShadowedUFHelper"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Stew\\Games\\Folders\\World of Warcraft\\Interface\\AddOns\\UnknowN_PriestHelper"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Stew\\Games\\Folders\\World of Warcraft\\Interface\\AddOns\\UnknowN_MasqueSkinElvUI"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Stew\\Games\\Folders\\World of Warcraft\\Interface\\AddOns\\UnknowN_AutoDisenchantHelper"
+		}
+	]
+}

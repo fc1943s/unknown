@@ -1,0 +1,11 @@
+## Title: |cff00ff96Masque: ElvUI|r
+## Notes: ElvUI skin for Masque.
+##
+## Interface: 60200
+## Dependencies: UnknowN_Core, Masque
+##
+## Version: 1.0
+## Author: Stew UnknowN
+##
+
+UnknowN_MasqueSkinElvUI.lua
