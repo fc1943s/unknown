@@ -110,7 +110,7 @@ addon.specInfo = {
     [72] = { 'STR' }--[[ Fury ]],
     [73] = { 'STR', 'STA' }--[[ Protection ]],
     -- DRUID DR
-    [102] = { 'INT' }--[[Balance],]
+    [102] = { 'INT' }--[[Balance]],
 	[103] = {'AGI'} --[[Feral]],
     [104] = { 'AGI', 'STA' }--[[ Guardian ]],
     [105] = { 'INT', 'SPI' }--[[ Restoration ]],
